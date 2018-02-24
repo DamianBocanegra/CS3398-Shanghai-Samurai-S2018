@@ -1,0 +1,22 @@
+#Search function
+#Find algorithm and then print contents of a file with information on algorithm
+#Will take search term (string) input in from search field, and a database of algorithm objects 
+#Will be imporved over development cycle, this is the bare bones of it.
+#Algorithms will be objects 
+
+Algorithm object
+Attributes:
+String name
+String txt_filename
+int viewed #used to find popularity of this algorithm, will be implemented later.
+
+
+#The string input will be compared to the algorithm object attribute name and see if the input string is a substring
+#It will be added to a list of search results
+#After all results are found the list of search results will be presented to the user.
+#The user will select the the algorithm they wish to see
+#The Algorithm objects attribute txt_filename will then be used to get the information on the algorithm stored in a file.
+
+
+
+
