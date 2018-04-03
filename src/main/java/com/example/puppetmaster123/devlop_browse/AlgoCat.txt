@@ -1,0 +1,9 @@
+Selection Sort:Sort
+Merge Sort:Sort
+Insertion Sort:Sort
+Linear Search:Search
+Jump Search:Search
+Binary:Search
+Vector:Data Structure
+Linked List:Data Structure
+Doubly Linked List:Data Structure
